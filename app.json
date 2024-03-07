@@ -1,0 +1,48 @@
+{
+  "name": "Venocyber voice message",
+  "description": "An application for sending and receiving voice messages",
+  "icon": "https://telegra.ph/file/1252ab43fa38f7b88ecf5.jpg",
+  "repository": "https://github.com/kingjux/venocyber-voice-message",
+  "keywords": ["venocyber", "kingjux", "voice", "message", "web"],
+  "website": "https://example.com",
+  "env": {
+    "API_KEY": {
+      "description": "The API key for the voice message API",
+      "required": true
+    },
+    "API_SECRET": {
+      "description": "The API secret for the voice message API",
+      "required": true
+    },
+    "DATABASE_URL": {
+      "description": "The URL for the application's database",
+      "required": true
+    },
+    "AWS_ACCESS_KEY_ID": {
+      "description": "The access key ID for the AWS S3 bucket",
+      "required": true
+    },
+    "AWS_SECRET_ACCESS_KEY": {
+      "description": "The secret access key for the AWS S3 bucket",
+      "required": true
+    },
+    "AWS_S3_BUCKET": {
+      "description": "The name of the AWS S3 bucket for storing voice messages",
+      "required": true
+    }
+  },
+  "scripts": {
+    "build": "npm run build",
+    "start": "npm start",
+    "test": "npm test"
+  },
+  "integrations": {
+    "github": {
+      "events": ["push"],
+      "permissions": [
+        "contents",
+        "pull_requests"
+      ]
+    }
+  }
+}
