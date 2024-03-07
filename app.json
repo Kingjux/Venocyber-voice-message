@@ -4,7 +4,7 @@
   "icon": "https://telegra.ph/file/1252ab43fa38f7b88ecf5.jpg",
   "repository": "https://github.com/kingjux/venocyber-voice-message",
   "keywords": ["venocyber", "kingjux", "voice", "message", "web"],
-  "website": "https://example.com",
+  "website": "https://venocybervoicemessage.websites.co.in",
   "env": {
     "API_KEY": {
       "description": "The API key for the voice message API",
