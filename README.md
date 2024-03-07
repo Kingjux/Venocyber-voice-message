@@ -18,7 +18,9 @@
 </p>
     
    
-   
+ <p align="center">
+  <a href="https://wa.me/+255698101622?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+Venocyber-voice-message+Repo" target="_blank">
+    <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />  
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 Venocyber Voice Message is a web application that allows users to send and receive voice messages online.
