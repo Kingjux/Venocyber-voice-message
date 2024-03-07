@@ -1,0 +1,40 @@
+/* styles.css */
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  text-align: center;
+  margin: 20px 0;
+}
+
+#message-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 50px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  margin: 10px;
+}
+
+button#record-btn {
+  background-color: #4CAF50;
+  color: blue;
+}
+
+button#stop-btn, button#play-btn {
+  background-color: #f44336;
+  color: white;
+}
+
+audio {
+  margin-top: 20px;
+  width: 300px;
+}
