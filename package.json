@@ -1,0 +1,25 @@
+{
+  "name": "venocyber-voice-message",
+  "version": "1.0.0",
+  "description": "Web application for voice messaging",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "build": "yarn run build",
+    "test": "yarn run test"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.0.1",
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kingjux/venocyber-voice-message.git"
+  },
+  "author": "Venocyber Tech",
+  "license": "MIT"
+}
