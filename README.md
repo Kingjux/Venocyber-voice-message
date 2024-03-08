@@ -152,3 +152,10 @@ SOFTWARE.
 ![_b5999c15-5038-4c77-bd4e-6247466e84ad](https://github.com/Kingjux/Venocyber-voice-message/assets/154667110/e902372a-99e8-40e0-9177-d8059e2ba48d)
 
 [![Venocyber tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Hello+Everyone%F0%9F%91%8B!;thank+you+for+visiting+my+site;I+am+venocyber+admin+founder+of+this;project;and+creator+too;i'm+looking+forwad+for+your+feedback;love+you+💖+🫂+💕)](https://github.com/Kingjux)
+
+
+
+
+<p align="center">
+  <a href="https://wa.me/+255698101622?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+Venocyber-voice-message+Repo" target="_blank">
+    <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />  
