@@ -118,17 +118,26 @@ SOFTWARE.
 ## contributors (pictures not found)
 
   1. Venocyber (admin)
-     ![_bffcca73-4118-463a-8f08-492cf59379bd](https://github.com/Kingjux/Venocyber-voice-message/assets/154667110/7b0659e3-1ea0-43f3-9fb9-9729db2c83a0)
+     ![_cfbd2a88-6066-41d0-ac39-daa5cd006572](https://github.com/Kingjux/Venocyber-voice-message/assets/154667110/7f8ff89f-5e48-4ffa-a926-3a3e68b47cd1)
+
 
   3. bro vamelan
-  4. Gifted gpt
-  5. mr andbad
-  6. jovin he.is.me
-  7. alex
-  8. lazarck
-  9. Excel
-![_bffcca73-4118-463a-8f08-492cf59379bd](https://github.com/Kingjux/Venocyber-voice-message/assets/154667110/14b27d34-2552-4ecf-99c0-1d7b044e3a27)
+ 
+ 4. Gifted gpt
+ 
+ 5. mr andbad
 
-  10. 
-Venocyber innovation team
-![Screenshot_20240306-204809](https://github.com/Kingjux/Venocyber-voice-message/assets/154667110/0bf78deb-1c36-4933-b27a-e010e82a794b)
+  6. jovin he.is.me
+![Screenshot_20240306-204809](https://github.com/Kingjux/Venocyber-voice-message/assets/154667110/49c0a949-2e4b-4362-afce-a6aeebfaadf7)
+
+  7. alex
+
+  8. lazarck
+
+  9. Excel
+      
+
+10. Venocyber innovation team
+
+![_b5999c15-5038-4c77-bd4e-6247466e84ad](https://github.com/Kingjux/Venocyber-voice-message/assets/154667110/e902372a-99e8-40e0-9177-d8059e2ba48d)
+
