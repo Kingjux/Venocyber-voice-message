@@ -118,11 +118,17 @@ SOFTWARE.
 ## contributors (pictures not found)
 
   1. Venocyber (admin)
-  2. bro vamelan
-  3. Gifted gpt
-  4. mr andbad
-  5. jovin he.is.me
-  6. alex
-  7. lazarck
-  8. Excel
+     ![_bffcca73-4118-463a-8f08-492cf59379bd](https://github.com/Kingjux/Venocyber-voice-message/assets/154667110/7b0659e3-1ea0-43f3-9fb9-9729db2c83a0)
+
+  3. bro vamelan
+  4. Gifted gpt
+  5. mr andbad
+  6. jovin he.is.me
+  7. alex
+  8. lazarck
+  9. Excel
+![_bffcca73-4118-463a-8f08-492cf59379bd](https://github.com/Kingjux/Venocyber-voice-message/assets/154667110/14b27d34-2552-4ecf-99c0-1d7b044e3a27)
+
+  10. 
 Venocyber innovation team
+![Screenshot_20240306-204809](https://github.com/Kingjux/Venocyber-voice-message/assets/154667110/0bf78deb-1c36-4933-b27a-e010e82a794b)
