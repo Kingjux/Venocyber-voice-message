@@ -178,5 +178,5 @@ SOFTWARE.
   <a href="https://chat.whatsapp.com/HSln3blDuuuKvC8njxyCCN" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />  
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=ff0000&center=true&width=900&height=100&lines=welcome;to;%20our+innovation;%20world%20you're%our%20; precious🔮💞💞💕💻💻🌹)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=ff0000&center=true&width=900&height=100&lines=welcome;to;%20our+innovation;%20world%20you're%our%20;precious🔮💞💞💕💻💻🌹)
 <p align="center">
