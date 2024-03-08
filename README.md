@@ -53,7 +53,7 @@
 <p align="center">
   <a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FKingjux%2Fvenocyber-voice-message"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
   <a href="https://suhail-web01.vercel.app/replit.html"><img src="https://img.shields.io/badge/replit-253c99?style=for-the-badge&logo=replit&logoColor=F26207"></a>
-  <a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com/Kingjux/Venocyber-voice-message-md&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=255621487388&env[MONGODB_URI]&&env[OWNER_NAME]=venocyber ᴛᴇᴄʜ&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=true&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=Venocyber ᴛᴇᴄʜ&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=VENOCYBER&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Africa/Dodoma&name=Venocyber-tech&env[KOYEB_NAME]=Venocyber-voice-message&env[SUDO]=null&env[THUMB_IMAGE]=https://telegra.ph/file/1252ab43fa38f7b88ecf5.jpg"><img src="https://img.shields.io/badge/koyeb-033604?style=for-the-badge&logo=koyeb&logoColor=white"></a>
+  <a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com/Kingjux/Venocyber-voice-message-md&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=255621487388&env[MONGODB_URI]&&env[OWNER_NAME]=venocyber ᴛᴇᴄʜ&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=true&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=Venocyber ᴛᴇᴄʜ&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=VENOCYBER&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Africa/Dodoma&name=Venocyber-tech&env[KOYEB_NAME]=Venocyber-voice-message&env[SUDO]=null&env[THUMB_IMAGE]=https://telegra.ph/file/1252ab43fa38f7b88ecf5.jpg"><img src="https:🌹img.shields.io/badge/koyeb-033604?style=for-the-badge&logo=koyeb&logoColor=white"></a>
 </p>
   <a href="https://youtu.be/3NdJb6_1cJM"><img src="https://img.shields.io/badge/CodeSpace-green?colorA=%23ff000&colorB=%23017e40&style=for-the-badge&logo=git&logoColor=red"></a>
 </p>
@@ -161,3 +161,22 @@ SOFTWARE.
  <p align="center">
   <a href="https://wa.me/+255698101622?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+Venocyber-voice-message+Repo" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />  
+
+
+<div align="center">
+    <img
+        src="https://readme-typing-svg.herokuapp.com?font=GlossAndBloom&size=30&duration=4997&color=993300&background=FF673200&center=true&vCenter=true&lines=Join+my;Tteam+now,+venocyber+innovation+team!;by;clicking+button; below;👇👇
+            alt="Typing SVG"
+        /
+        >
+    </a>
+</p>
+</div>
+
+
+<p align="center">
+  <a href="https://chat.whatsapp.com/HSln3blDuuuKvC8njxyCCN" target="_blank">
+    <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />  
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=ff0000&center=true&width=900&height=100&lines=welcome;to;%20our+innovation;%20world%20you're%our%20; precious🔮💞💞💕💻💻🌹)
+<p align="center">
