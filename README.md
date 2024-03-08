@@ -114,6 +114,16 @@ SOFTWARE.
    ```bash
    git clone https://github.com/kingjux/venocyber-voice-message.git
 
+## appreciation and acknowledgement
+ i would like to thank you for visiting my page this is not finished yet so if you have any idea on this project and changes dm me via 
+<p align="center">
+  <a href="https://wa.me/+255698101622?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+Venocyber-voice-message+Repo" target="_blank">
+    <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=golden" />  
+
+
+ also you can request as contributor dm me to
+
+
 
 ## contributors (pictures not found)
 
@@ -134,7 +144,7 @@ SOFTWARE.
 
   8. lazarck
 
-  9. Excel
+  9. Excel xcelsama
       
 
 10. Venocyber innovation team
