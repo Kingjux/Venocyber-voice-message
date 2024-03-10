@@ -62,6 +62,17 @@
  
 
 
+ᴄʟɪᴄᴋ ᴡᴀ ʟᴏɢᴏ ᴛᴏ ᴊᴏɪɴ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ 👇 
+<br> [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://whatsapp.com/channel/0029VaJmfmTDJ6H7CmuBss0o)
+  <div align="center"  >
+<h4 align="center">Plugins</h1>
+
+---
+
+
+
+
+
 
      
       [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
