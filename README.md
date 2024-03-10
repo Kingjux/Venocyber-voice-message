@@ -151,14 +151,12 @@ SOFTWARE.
   6. jovin he.is.me
 ![Screenshot_20240306-204809](https://github.com/Kingjux/Venocyber-voice-message/assets/154667110/49c0a949-2e4b-4362-afce-a6aeebfaadf7)
 
-  7. alex
+  7. lazarck
 
-  8. lazarck
-
-  9. Excel xcelsama
+  8. Excel xcelsama
       
 
-10. Venocyber innovation team
+9. Venocyber innovation team
 
 ![_b5999c15-5038-4c77-bd4e-6247466e84ad](https://github.com/Kingjux/Venocyber-voice-message/assets/154667110/e902372a-99e8-40e0-9177-d8059e2ba48d)
 
